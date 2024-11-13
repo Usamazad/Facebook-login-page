@@ -1,0 +1,57 @@
+body {
+    background: rgb(139, 160, 219);
+}
+
+.one h1 {
+    color: #0866ff;
+
+    border-radius: 10;
+    border-color: black;
+}
+
+.one {
+    text-align: center;
+    margin: 50px auto;
+    padding: 12px;
+    border: 1px solid black;
+    height: 397px;
+    width: 335px;
+    background-color: white;
+}
+
+.tow {
+    background-color: rgb(1, 46, 1);
+    color: whitesmoke;
+    padding: 17px 16px;
+    margin: -20px 34px;
+}
+
+.three {
+    background-color: #0866ff;
+    color: aliceblue;
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+
+.for input {
+    padding: 12px 0px;
+    margin: 5px 0px;
+    width: 283px;
+    border-radius: 7px;
+}
+
+.for a:hover {
+    color: black;
+}
+
+button {
+    padding: 10px 9px;
+    background-color: #42b72a;
+    ;
+    color: white;
+    font-weight: 600;
+    border-radius: 7px;
+}
+button:hover{
+    color: black;
+}
